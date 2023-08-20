@@ -42,7 +42,7 @@ function Form() {
             </Typography>
             </ThemeProvider>
 
-            <form>
+            <section>
               <Grid container spacing={2}>
                 <Grid xs={12} sm={3} item>
                   <TextField
@@ -159,7 +159,7 @@ function Form() {
                   </Button>
                 </Grid>
               </Grid>
-            </form>
+            </section>
           </CardContent>
         </Card>
       </Grid>
