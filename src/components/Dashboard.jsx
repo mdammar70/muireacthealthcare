@@ -15,7 +15,7 @@ const Dashboard = () => {
       <ThemeProvider theme={theme}>
         <Typography
           sx={{ marginBottom: 4 }}
-          style={{ fontWeight: 600 , color: "#330e62", marginBottom:"60px"  }}
+          style={{ fontWeight: 600 , color: "#330e62", marginBottom:"42px"  }}
           variant="h5"
           gutterBottom
         >
